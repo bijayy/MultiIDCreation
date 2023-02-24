@@ -1,0 +1,14 @@
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\demo_projects\MutipleIDCreation\MutipleIDCreation\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
